@@ -1,0 +1,23 @@
+{"Food data": [
+  {
+    "Calorie": 100,
+    "Carb": 70,
+    "Fat": 5,
+    "Protein": 5,
+    "Name": "Apple"
+  },
+  {
+    "Calorie": 200,
+    "Carb": 150,
+    "Fat": 20,
+    "Protein": 15,
+    "Name": "Banana"
+  },
+  {
+    "Calorie": 350,
+    "Carb": 250,
+    "Fat": 35,
+    "Protein": 50,
+    "Name": "Noodle"
+  }
+]}

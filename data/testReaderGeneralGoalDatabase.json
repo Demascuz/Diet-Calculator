@@ -1,0 +1,22 @@
+{"Goal data": [
+  {
+    "Protein goal": 100,
+    "Carb eaten": 0,
+    "Calorie goal": 100,
+    "Fat eaten": 0,
+    "Carb goal": 100,
+    "Protein eaten": 0,
+    "Fat goal": 100,
+    "Calorie eaten": 0
+  },
+  {
+    "Protein goal": 200,
+    "Carb eaten": 0,
+    "Calorie goal": 100,
+    "Fat eaten": 0,
+    "Carb goal": 300,
+    "Protein eaten": 0,
+    "Fat goal": 400,
+    "Calorie eaten": 0
+  }
+]}
